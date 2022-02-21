@@ -1,3 +1,5 @@
 Repositiorio na maquina
 
 alteração na branch 01
+
+"comando git branch 'nome da branch' cria uma branch nova"
